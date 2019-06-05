@@ -1,0 +1,36 @@
+Tue Mar 12 10:55:55 UTC 2019
+make[2]: Entering directory '/sources/isl-0.20'
+make  check-recursive
+make[3]: Entering directory '/sources/isl-0.20'
+Making check in .
+make[4]: Entering directory '/sources/isl-0.20'
+make  check-TESTS
+make[5]: Entering directory '/sources/isl-0.20'
+make[6]: Entering directory '/sources/isl-0.20'
+PASS: isl_test
+PASS: codegen_test.sh
+PASS: pip_test.sh
+PASS: bound_test.sh
+PASS: isl_test_int
+PASS: flow_test.sh
+PASS: schedule_test.sh
+============================================================================
+Testsuite summary for isl 0.20
+============================================================================
+# TOTAL: 7
+# PASS:  7
+# SKIP:  0
+# XFAIL: 0
+# FAIL:  0
+# XPASS: 0
+# ERROR: 0
+============================================================================
+make[6]: Leaving directory '/sources/isl-0.20'
+make[5]: Leaving directory '/sources/isl-0.20'
+make[4]: Leaving directory '/sources/isl-0.20'
+Making check in doc
+make[4]: Entering directory '/sources/isl-0.20/doc'
+make[4]: Nothing to be done for 'check'.
+make[4]: Leaving directory '/sources/isl-0.20/doc'
+make[3]: Leaving directory '/sources/isl-0.20'
+make[2]: Leaving directory '/sources/isl-0.20'
